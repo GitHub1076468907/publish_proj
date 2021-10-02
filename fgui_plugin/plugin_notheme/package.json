@@ -1,0 +1,11 @@
+{
+  "name": "plugin_notheme",
+  "displayName": "公共插件",
+  "description": "用于那些比较小的插件操作，可以一起写在这里好了",
+  "version": "1.0",
+  "author": {
+    "name": "lhy"
+  },
+  "icon": "",
+  "main": "main.lua"
+}

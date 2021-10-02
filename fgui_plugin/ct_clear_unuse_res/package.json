@@ -1,0 +1,11 @@
+{
+  "name": "ct_clear_unuse_res",
+  "displayName": "自定义工具-清除无用资源",
+  "description": "暂不处理导出后但没有实际使用的资源",
+  "version": "1.0",
+  "author": {
+    "name": "lhy"
+  },
+  "icon": "",
+  "main": "main.lua"
+}

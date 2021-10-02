@@ -1,0 +1,11 @@
+{
+  "name": "ct_deal_repeat_res",
+  "displayName": "自定义工具-处理重复资源",
+  "description": "用于多个包都各自用了同个MD5图片的资源，作用是将这些图片只保留一个，其余的改成对那张图的引用。\n资源的移动和引用保持(分支)",
+  "version": "1.0",
+  "author": {
+    "name": "lhy"
+  },
+  "icon": "",
+  "main": "main.lua"
+}
